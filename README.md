@@ -1,1 +1,2 @@
 # Dependable system
+## detail : <url>
